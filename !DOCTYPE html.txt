@@ -2,17 +2,20 @@
 <html lang="id">
 <head>
   <meta charset="UTF-8">
-  <title>Link Bio Saya</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Link Bio</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <div class="container">
-    <img src="https://via.placeholder.com/120" alt="Foto Profil" class="profile">
-    <h2>Halo, aku [Namamu]</h2>
-    <a class="link" href="https://saweria.co/namamu">💰 Saweria</a>
-    <a class="link" href="https://discord.gg/invitecode">🎮 Discord</a>
-    <a class="link" href="https://tiktok.com/@namamu">📱 TikTok</a>
-    <a class="link" href="https://instagram.com/namamu">📸 Instagram</a>
+    <img src="https://via.placeholder.com/120" alt="Foto Profil" class="profile-img">
+    <h1>Nama Kamu</h1>
+    <p>Selamat datang di link bio saya ✨</p>
+
+    <a href="https://tiktok.com" target="_blank" class="btn">TikTok</a>
+    <a href="https://discord.gg/xxxx" target="_blank" class="btn">Discord</a>
+    <a href="https://saweria.co/xxxx" target="_blank" class="btn">Saweria</a>
   </div>
 </body>
 </html>
+
