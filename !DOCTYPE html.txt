@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Link Bio Saya</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <img src="https://via.placeholder.com/120" alt="Foto Profil" class="profile">
+    <h2>Halo, aku [Namamu]</h2>
+    <a class="link" href="https://saweria.co/namamu">💰 Saweria</a>
+    <a class="link" href="https://discord.gg/invitecode">🎮 Discord</a>
+    <a class="link" href="https://tiktok.com/@namamu">📱 TikTok</a>
+    <a class="link" href="https://instagram.com/namamu">📸 Instagram</a>
+  </div>
+</body>
+</html>

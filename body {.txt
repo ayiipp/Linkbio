@@ -1,0 +1,34 @@
+body {
+  font-family: Arial, sans-serif;
+  background: linear-gradient(135deg, #667eea, #764ba2);
+  text-align: center;
+  color: white;
+}
+
+.container {
+  margin-top: 50px;
+}
+
+.profile {
+  border-radius: 50%;
+  width: 120px;
+  margin-bottom: 15px;
+}
+
+.link {
+  display: block;
+  margin: 15px auto;
+  padding: 15px;
+  width: 220px;
+  background: white;
+  color: #333;
+  text-decoration: none;
+  border-radius: 12px;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+.link:hover {
+  background: #ff9800;
+  color: white;
+}
