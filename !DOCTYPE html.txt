@@ -10,7 +10,7 @@
   <div class="container">
     <img src="https://via.placeholder.com/120" alt="Foto Profil" class="profile-img">
     <h1>Nama Kamu</h1>
-    <p>Selamat datang di link bio saya ✨</p>
+    <p>Selamat datang di link bio saya adik adik ✨</p>
 
     <a href="https://tiktok.com" target="_blank" class="btn">TikTok</a>
     <a href="https://discord.gg/xxxx" target="_blank" class="btn">Discord</a>
@@ -18,4 +18,5 @@
   </div>
 </body>
 </html>
+
 
